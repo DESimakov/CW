@@ -1,9 +1,10 @@
 # CW
 Здесь будут выкладываться файлы с продвижением в написании курсовой работы.
 ## Визуализация данных
-https://github.com/DESimakov/CW/blob/master/CW_data_and_visualisation.ipynb
+Графики данных. Сравнение разных временных отрезков, их гистограммы. Месячное скользящее среднее для ставки, ее волательности. [Ноутбук](https://github.com/DESimakov/CW/blob/master/CW_data_and_visualisation.ipynb) 
 ## Калибровка ошибки MAPE
-https://github.com/DESimakov/CW/blob/master/CWm-calibration_MAPE.ipynb
+Для моделей Мертона и однофакторной Хулла-Вайта найдены оптимальные параметры путем минимизации ошибки MAPE. [Ноутбук](https://github.com/DESimakov/CW/blob/master/CWm-calibration_MAPE.ipynb)
 ## Калибровка при помощи максимизации правдоподобия
+Для моделей Мертона и однофакторной Хулла-Вайта найдены оптимальные параметры путем максимизации функции правдоподобия. [Ноутбук](https://github.com/DESimakov/CW/blob/master/CWm-calibration_ML.ipynb)
 ## Использование пакета Quant-Lib (искусственный пример)
-https://github.com/DESimakov/CW/blob/master/CW_QuantLib.ipynb
+Калибровка параметров HW1f по цене свапциона. [Ноутбук](https://github.com/DESimakov/CW/blob/master/CW_QuantLib.ipynb)
