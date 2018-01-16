@@ -1,4 +1,3 @@
-
 # CW
 Здесь будут выкладываться файлы с продвижением в написании курсовой работы.
 ## Данные
@@ -17,6 +16,11 @@
 ## Использование пакета Quant-Lib (искусственный пример)
 Калибровка параметров HW1f по цене свапциона. [Ноутбук](https://github.com/DESimakov/CW/blob/master/CW_QuantLib.ipynb)
 ## Ближайшее:
-Посмотреть на <a href="https://www.codecogs.com/eqnedit.php?latex=\theta(t)&space;=&space;const" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta(t)&space;=&space;const" title="\theta(t) = const" /></a> . Сделать алгоритм, который подбирает параметры по заданной волатильности (в два шага). Подбор начального приближения. Случайная выборка параметров в правдоподобии. Другие способы оптимизации.
+* Посмотреть на <a href="https://www.codecogs.com/eqnedit.php?latex=\theta(t)&space;=&space;const" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta(t)&space;=&space;const" title="\theta(t) = const" /></a> . 
+* Сделать алгоритм, который подбирает параметры по заданной волатильности (в два шага). *Для максимального правдоподобия у HW1 вышло, что для в зависимости от начального приближения он каждый раз выбирает одни и те же параметры для разных волатильностей*
+* HW1 численное вычисление интеграла, для подсчета любой функции <a href="https://www.codecogs.com/eqnedit.php?latex=\theta(t)&space;=&space;const" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta(t)" title="\theta(t)" /></a> 
+* Подбор начального приближения. 
+* Случайная выборка параметров в правдоподобии. 
+* Другие способы оптимизации.
 #### TODO List
 HW1 в своей реализации посмотреть на полных данных при фрагментации на отрезки - не кризис, подъем, стагнация. Будет ли нормальный учет кризисов? Построить траектории на будущее.
