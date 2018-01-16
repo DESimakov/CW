@@ -6,7 +6,7 @@
 3) [Данные для MOSPRIME 3m средние с 01-04-2010 по 01-04-2013](https://github.com/DESimakov/CW/blob/master/mosprime3m_between.csv)
 4) [Данные для MOSPRIME 3m короткие с 02-04-2012 по 31-08-2012](https://github.com/DESimakov/CW/blob/master/mosprime3m_short.csv)
 ## Визуализация данных
-Графики данных. Сравнение разных временных отрезков, их гистограммы. Месячное скользящее среднее для ставки, ее волательности. [Ноутбук](https://github.com/DESimakov/CW/blob/master/CW_data_and_visualisation.ipynb) 
+Графики данных. Сравнение разных временных отрезков, их гистограммы. Месячное скользящее среднее для ставки, ее волатильности. [Ноутбук](https://github.com/DESimakov/CW/blob/master/CW_data_and_visualisation.ipynb) 
 ## Калибровка ошибки MAPE
 Для моделей Мертона и однофакторной Халла-Вайта найдены оптимальные параметры путем минимизации ошибки MAPE. [Ноутбук](https://github.com/DESimakov/CW/blob/master/CWm-calibration_MAPE.ipynb)
 ## Калибровка при помощи максимизации правдоподобия
